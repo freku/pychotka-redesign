@@ -1,3 +1,7 @@
-import './styles.css';
+import Button from "./lib/button.js";
+import "./styles.scss";
+import "./map.css";
 
-console.log('yes');
+console.log("yes");
+
+var a = new Button();
